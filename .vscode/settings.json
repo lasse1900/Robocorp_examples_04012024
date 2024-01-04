@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "c:/coding/Robocorp_29122023/Xpath/."
+    ],
+    "python.terminal.activateEnvironment": false
+}
